@@ -1,4 +1,4 @@
-from main import BooksCollector
+from books_collector import BooksCollector
 from random import choice
 
 
